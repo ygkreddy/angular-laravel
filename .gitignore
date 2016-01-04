@@ -3,3 +3,5 @@
 .env.php
 .env
 /nbproject/private/
+/node_modules
+/vonder
